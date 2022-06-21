@@ -45,8 +45,14 @@ A House Rocket enfrenta alguns problemas, eles tem um grande conjunto de dados m
 
 **1.3.1 Aplicação para analises:** Uma aplicação no heroku. Um dashboard interativo, onde se e possível fazer suas próprias analises.
 
-[House Rocket App](https://dados-house-rocket.herokuapp.com/)
+<img src= "imagens/dashboard1.png"  width="600">
+&nbsp;
 
+<img src= "imagens/dasboard2.png"  width="600">
+
+&nbsp;
+
+[House Rocket App](https://dados-house-rocket.herokuapp.com/)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 **1.3.2 Insights:** Os insights gerados pela visualizacao de dados, estao na imagem abaixo. Ou para uma melhor visualizacao recomendo ver os insights no arquivo do jupyter notebook.
