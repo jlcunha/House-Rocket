@@ -99,3 +99,5 @@ Projeto criado por [Lucas da Cunha](https://www.linkedin.com/in/jose-lucas-da-cu
 Data Scientist em formação
 
 [Portfolio de Projetos](https://jlcunha.github.io/portfolio_projetos/)
+
+[Linked In](http://www.linkedin.com/in/lucas-dacunha/)
